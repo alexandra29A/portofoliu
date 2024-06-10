@@ -180,13 +180,7 @@ contact  input.form-control{
     height: 44px;
 }
 
-.layer{
-      width: 100%;
-      height: 100%;
-      background: linear-gradient(rgba(0, 0, 0, 0.6)), #ffda06;
-      border-radius: 10px;
-      position: absolute;
-}
+
 
 
 .contact-left{
